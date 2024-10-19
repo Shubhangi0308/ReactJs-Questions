@@ -238,7 +238,3 @@ Context API provides a way to pass data deeply throughout the component tree wit
 - **super()** calls the constructor of the parent class.
 - **constructor** initializes state and binds event handlers.
 - **render** returns the JSX to be displayed.
-
----
-
-Feel free to copy and paste this into your GitHub as-is!
